@@ -1,0 +1,6 @@
+name = "logmoney-api"
+main = "worker/index.ts"
+compatibility_date = "2025-06-01"
+
+[vars]
+ALLOWED_ORIGIN = "http://localhost:5173,http://127.0.0.1:5173"

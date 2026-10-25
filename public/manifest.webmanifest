@@ -1,0 +1,14 @@
+{
+  "name": "Logmoney — Chi tiêu nhẹ đầu",
+  "short_name": "Logmoney",
+  "description": "Ghi chi tiêu mỗi ngày, hiểu tiền đang đi đâu.",
+  "lang": "vi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#f7f8f5",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
