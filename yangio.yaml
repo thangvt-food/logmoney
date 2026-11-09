@@ -1,0 +1,26 @@
+slug: logmoney
+name: Logmoney
+tagline: Ghi chi tiêu hằng ngày và theo dõi ngân sách tháng
+url: https://thangvt-food.github.io/logmoney/
+status: live
+visibility: public
+description: PWA mobile-first ghi chi tiêu, đặt ngân sách tháng và xem nhóm chi nhiều nhất; dùng Firebase Auth và Cloudflare Worker.
+tags:
+  - tài-chính
+  - chi-tiêu
+  - pwa
+category: finance
+tech:
+  - react
+  - vite
+  - firebase
+  - cloudflare-workers
+  - pwa
+hosting: github-pages
+updated: '2026-10-25'
+version: 1.0.0
+icon: 💰
+auth: login
+links:
+  repo: https://github.com/thangvt-food/logmoney
+notes: Trang public trên GitHub Pages; worker xác minh Firebase ID token. Không đặt service-account key trong trình duyệt.
